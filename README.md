@@ -33,10 +33,9 @@ New, unseen data can also be passed to the trained model to predict house values
 1. Data collection and loading  
 2. Data cleaning and preprocessing  
 3. Feature engineering (log transformations, ratio features, dummy encoding)  
-4. Model training using **Linear Regression**  
-5. Model evaluation using **R² Score** and **Mean Absolute Error (MAE)**  
-6. Saving trained model using `joblib.dump()`  
-7. Predicting new house prices using saved model  
+4. Model training using **Linear Regression**   
+5. Saving trained model using `joblib.dump()`  
+6. Predicting new house prices using saved model  
 
 **Result / Output:**  
 

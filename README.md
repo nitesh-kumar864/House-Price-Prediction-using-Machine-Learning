@@ -1,6 +1,6 @@
-# 🏠 House Price Prediction
+# House Price Prediction
 
-## 📋 Overview
+##  Overview
 This project predicts house prices using **machine learning** techniques based on features like location, area, rooms, and median income.  
 It demonstrates the full ML workflow — **data cleaning, EDA, feature engineering, model training, evaluation**, and **prediction on new data** using a saved model.
 
@@ -16,7 +16,7 @@ It demonstrates the full ML workflow — **data cleaning, EDA, feature engineeri
 
 ---
 
-## 📊 Dataset
+##  Dataset
 Dataset used: [California Housing Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)  
 
 **Example columns:**
@@ -34,5 +34,5 @@ Dataset used: [California Housing Dataset](https://www.kaggle.com/datasets/camnu
 
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/nitesh-kumar864/House-Price-Prediction-using-Machine-Learning.git
 cd house-price-prediction

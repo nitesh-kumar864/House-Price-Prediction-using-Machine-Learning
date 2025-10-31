@@ -39,7 +39,8 @@ New, unseen data can also be passed to the trained model to predict house values
 7. Predicting new house prices using saved model  
 
 **Result / Output:**  
-The trained model achieved an **R² Score of 0.83** with a **Mean Absolute Error of ₹45,000** (approx).  
+
+Predicted Median House Value: ₹411523.12** (approx).  
 For new input data, the model successfully predicts the **median house value** based on the given features.
 
 **Conclusion:**  
